@@ -7,20 +7,20 @@ Selenium WebDrivers
 Cucumber BDD
 PageObject Model 
 
-# Test Cases covered part of this Automation
+## Test Cases covered part of this Automation
 
 1.Validate that a validation message with text ‘This field is required’ appears under the date of birth box with different set of data 
 
-# Selenium:
+## Selenium:
 
 I have implemented reusable methods where we can reuse them in this project 
 
-# Cucumber BDD
+## Cucumber BDD
 
 I have used  Scenario Outline, so we can set different set of data 
 
 
-# Hooks
+## Hooks
 
 I have used @After to close browser after each test 
 
