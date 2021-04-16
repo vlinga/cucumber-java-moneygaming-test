@@ -1,31 +1,31 @@
-#Automation Tester Pre-Interview Test
+# Automation Tester Pre-Interview Test
 
-#Tools and Programming Language used to build tests are 
+# Tools and Programming Language used to build tests are 
 
 Java
 Selenium WebDrivers 
 Cucumber BDD
 PageObject Model 
 
-#Test Cases covered part of this Automation
+# Test Cases covered part of this Automation
 
 1.Validate that a validation message with text ‘This field is required’ appears under the date of birth box with different set of data 
 
-#Selenium:
+# Selenium:
 
 I have implemented reusable methods where we can reuse them in this project 
 
-#Cucumber BDD
+# Cucumber BDD
 
 I have used  Scenario Outline, so we can set different set of data 
 
 
-#Hooks
+# Hooks
 
 I have used @After to close browser after each test 
 
 
-#Steps to execute tests :
+## Steps to execute tests :
 
 1.download code from Github
 2.Then open project in IJ or Eclipse 
@@ -33,7 +33,7 @@ I have used @After to close browser after each test
 4.Now go to Java -> stepdefination -> Righclick on RunCucumberTest -> Run 'RunCucumberTest'
 5.Execution will start 
 
-#Reports
+## Reports
 Under target -> moneygaming ->cucumber -> cucumber.html -> open in browser -> you will find HTML report in details 
 
 
